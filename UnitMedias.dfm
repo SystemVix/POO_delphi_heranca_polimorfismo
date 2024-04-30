@@ -1,7 +1,7 @@
-object Form1: TForm1
+object FormMedias: TFormMedias
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'C'#225'lculo de M'#233'dias'
   ClientHeight = 778
   ClientWidth = 1108
   Color = clBtnFace

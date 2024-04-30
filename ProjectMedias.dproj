@@ -99,9 +99,10 @@
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
         <DCCReference Include="UnitMedias.pas">
-            <Form>Form1</Form>
+            <Form>FormMedias</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="UnitClasseMedia.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
