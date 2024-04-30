@@ -3,7 +3,8 @@ program ProjectMedias;
 uses
   Vcl.Forms,
   UnitMedias in 'UnitMedias.pas' {FormMedias},
-  UnitClasseMedia in 'UnitClasseMedia.pas';
+  UnitClasseMedia in 'UnitClasseMedia.pas',
+  UnitClasseMediaPoderada in 'UnitClasseMediaPoderada.pas';
 
 {$R *.res}
 

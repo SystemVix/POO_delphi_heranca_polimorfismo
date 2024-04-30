@@ -64,10 +64,4 @@ begin
   Result := (Valor1 + Valor2) / 2;
 end;
 
-
-
-
-
-
-
 end.
